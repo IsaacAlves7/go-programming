@@ -7,3 +7,7 @@
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="170"></div>
 
 <div align="center"><img src="https://media1.tenor.com/images/9e11dae37a9fc8a76d52359c2af0dc9e/tenor.gif?itemid=5467323" height="170"></div>
+
+```go
+print("Hello World!")
+```
