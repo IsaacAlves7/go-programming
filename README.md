@@ -1,4 +1,4 @@
-# <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="27"> It's my repository of Go (Golang) from scratch 🐹🔢
+# <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="27"></a> It's my repository of Go (Golang) from scratch 🐹🔢
 
 <blockquote>I created this repository for my Go (Golang) Full-Stack development learning.</blockquote>
 
