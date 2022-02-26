@@ -13,7 +13,7 @@
   <li>Programming logic and paradigms;</li>
   <li>Desire to learn.</li>
 </ul>
-<blockquote>⚠️ <b>WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Ruby development</blockquote>
+<blockquote>⚠️ <b>WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Go development</blockquote>
 
 <div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://poster.keepcalmandposters.com/default/5553441_keep_calm_and_go_live.png" height="277"></a></div>
 
