@@ -1,4 +1,4 @@
-# <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="27"></a> It's my repository of Go (Golang) from scratch 🐹
+# <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" height="27"></a> It's my repository of Go (Golang) from scratch 🐹
 
 <blockquote>I created this repository for my Go (Golang) Full-Stack development learning.</blockquote>
 
@@ -29,6 +29,7 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 <div align="center"><img src="https://storeos.org/img/golang.svg" height="270"></div>
 <div align="center"><img src="https://dwglogo.com/wp-content/uploads/2017/08/Golang-logo-006.svg" height="270"></div>
 <div align="center"><img src="https://go.dev/images/gophers/ladder.svg" height="270"></div>
+<div align="center"><img src="https://symbols.getvecta.com/stencil_82/2_go-language-icon.5b9f6e8c75.svg" height="270"></div>
 
 <!-- <div align="center"><img src="https://media1.tenor.com/images/9e11dae37a9fc8a76d52359c2af0dc9e/tenor.gif?itemid=5467323" height="170"></div> -->
 
