@@ -4,6 +4,19 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://technology.riotgames.com/sites/default/files/articles/116/golangheader.png"></a></div>
 
+# 🎒 Prerequisites and repositories 📚
+<ul>
+  <li>Good domains in English;</li>
+  <li>Front-End: HTML5, CSS3, JS and Frameworks;</li>
+  <li>Relational Databases and SQL language;</li>
+  <li>HTTP methods and APIs;</li>
+  <li>Programming logic and paradigms;</li>
+  <li>Desire to learn.</li>
+</ul>
+<blockquote>⚠️ <b>WARNING</b>: It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Ruby development</blockquote>
+
+<div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://poster.keepcalmandposters.com/default/5553441_keep_calm_and_go_live.png" height="277"></a></div>
+
 <hr>
 
 # Paradigmas de desenvolvimento de software
