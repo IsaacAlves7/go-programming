@@ -1,8 +1,8 @@
+<div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://technology.riotgames.com/sites/default/files/articles/116/golangheader.png"></a></div>
+
 # <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" height="27"></a> It's my repository of Go (Golang) from scratch 🐹
 
 <blockquote>I created this repository for my Go (Golang) Full-Stack development learning.</blockquote>
-
-<div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://technology.riotgames.com/sites/default/files/articles/116/golangheader.png"></a></div>
 
 # 🎒 Prerequisites and repositories 📚
 <ul>
