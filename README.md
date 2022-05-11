@@ -4,7 +4,7 @@
 
 <blockquote>I created this repository for my Go (Golang) Full-Stack development learning.</blockquote>
 
-# 🎒 Prerequisites and repositories 📚
+## Prerequisites and repositories:
 <ul>
   <li>Good domains in English;</li>
   <li>Front-End: HTML5, CSS3, JS and Frameworks;</li>
@@ -19,7 +19,7 @@
 
 <hr>
 
-# 🐒 Paradigmas de desenvolvimento de software 🧒
+# 🐒 Paradigmas de desenvolvimento de software
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
 
@@ -32,7 +32,7 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 
 ----
 
-# 🐹 Linguagem Go 🐹
+# 🐹 Linguagem Go
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" height="270"></div>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="270"></div>
 <div align="center"><img src="https://raw.githubusercontent.com/cshum/imagor/master/testdata/gopher-front.png" height="270"></div>
@@ -50,3 +50,9 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 ```go
 print("Hello World!")
 ```
+
+---
+
+## Autor
+| [<img src="https://avatars.githubusercontent.com/u/61624336?v=4" width="110"><br><sub>@IsaacAlves7</sub>](https://github.com/IsaacAlves7) |
+| :---: |
