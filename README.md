@@ -51,8 +51,6 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 print("Hello World!")
 ```
 
----
-
 ## Autor
 | [<img src="https://avatars.githubusercontent.com/u/61624336?v=4" width="110"><br><sub>@IsaacAlves7</sub>](https://github.com/IsaacAlves7) |
 | :---: |
