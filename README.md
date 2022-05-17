@@ -17,8 +17,6 @@
 
 <div align="center"><a href="https://github.com/IsaacAlves7/go-programming"><img src="https://poster.keepcalmandposters.com/default/5553441_keep_calm_and_go_live.png" height="277"></a></div>
 
-<hr>
-
 # 🐒 Paradigmas de desenvolvimento de software
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
